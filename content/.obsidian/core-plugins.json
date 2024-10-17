@@ -1,14 +1,17 @@
-[
-  "file-explorer",
-  "global-search",
-  "switcher",
-  "graph",
-  "backlink",
-  "outgoing-link",
-  "page-preview",
-  "command-palette",
-  "editor-status",
-  "outline",
-  "word-count",
-  "file-recovery"
-]
+{
+  "file-explorer": true,
+  "global-search": true,
+  "switcher": true,
+  "graph": true,
+  "backlink": true,
+  "canvas": true,
+  "outgoing-link": true,
+  "tag-pane": true,
+  "page-preview": true,
+  "command-palette": true,
+  "editor-status": true,
+  "bookmarks": true,
+  "outline": true,
+  "word-count": true,
+  "file-recovery": true
+}
