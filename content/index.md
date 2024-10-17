@@ -1,0 +1,14 @@
+---
+title: Kei Lambda
+created: 2024-10-11T04:00:00Z
+modified: 2024-10-11T04:00:00Z
+---
+
+<div style="display: flex; flex-direction: row; align-items: center;">
+<img src="static/avatar.jpg" alt="keilambda avatar" align="left" style="width: 7rem; margin-right: 2rem;"/>
+
+[About me...](about.md)
+
+</div>
+
+todo
