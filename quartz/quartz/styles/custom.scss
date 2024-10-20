@@ -12,14 +12,12 @@ section {
 }
 
 h1::before {
-  content: url(/static/b1.svg);
   margin-right: 0.5rem;
   top: 0.25rem;
   position: relative;
 }
 
 h2::before {
-  content: url(/static/b2.svg);
   margin-right: 0.5rem;
   top: 0.4rem;
   position: relative;
